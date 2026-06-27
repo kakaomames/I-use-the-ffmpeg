@@ -1,0 +1,35 @@
+name: HLS Auto-Clone & Deploy Mission
+
+on:
+  push:
+    paths:
+      - 'url.json' # url.jsonが更新されたら発動
+
+permissions:
+  contents: write # GitHub Pagesへのデプロイに必須
+
+jobs:
+  run-mission:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 任務のリポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: 必要な資材（ツール）の配備
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg jq
+
+      - name: 任務の実行権限を付与
+        run: chmod +x 1.sh
+
+      - name: 任務開始！(1.shの実行)
+        run: ./1.sh
+
+      - name: GitHub Pagesへデプロイ
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./ # 1.shが生成したoutputディレクトリを公開
+          # 隊長、悪用厳禁の免責事項をここにも反映させるなら、
+          # README.mdなども一緒にdeployしても良いですね！

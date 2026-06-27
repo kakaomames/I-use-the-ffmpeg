@@ -43,7 +43,7 @@ while true; do
         break # エラー時は無限ループ防止のため停止
     fi
 
-    stream_url=$(grep -oE 'https?://[^"]+\.m3u8(\?[^"]+)?' .temp_page.txt | head -n 1)
+    stream_url=$(grep -m 1 -oE 'https?://[^"]+\.m3u8(\?[^"]+)?' .temp_page.txt)
     
     if [ -z "$stream_url" ]; then
         echo "[$(date)] ERROR: m3u8 not found for $filename" >> log.txt

@@ -26,10 +26,18 @@ jobs:
       - name: 任務開始！(1.shの実行)
         run: ./1.sh
 
+      - name: git command
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: remove processed task [skip ci]"
+          git push
+
       - name: GitHub Pagesへデプロイ
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./ # 1.shが生成したoutputディレクトリを公開
+          publish_dir: . # 1.shが生成したoutputディレクトリを公開
           # 隊長、悪用厳禁の免責事項をここにも反映させるなら、
           # README.mdなども一緒にdeployしても良いですね！

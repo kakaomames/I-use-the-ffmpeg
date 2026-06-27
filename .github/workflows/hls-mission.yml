@@ -34,10 +34,20 @@ jobs:
           git commit -m "chore: remove processed task [skip ci]"
           git push
 
-      - name: GitHub Pagesへデプロイ
+      # - name: GitHub Pagesへデプロイ
+        # uses: peaceiris/actions-gh-pages@v3
+        # with:
+          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          # publish_dir: . # 1.shが生成したoutputディレクトリを公開
+          # 隊長、悪用厳禁の免責事項をここにも反映させるなら、
+          # README.mdなども一緒にdeployしても良いですね！
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: . # 1.shが生成したoutputディレクトリを公開
-          # 隊長、悪用厳禁の免責事項をここにも反映させるなら、
-          # README.mdなども一緒にdeployしても良いですね！
+          publish_dir: ./
+          # force_orphan: true が肝！これで履歴がリセットされ、リポジトリが重くなりません
+          force_orphan: true
+          # ユーザー設定
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'

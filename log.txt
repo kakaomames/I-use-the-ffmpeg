@@ -60,3 +60,40 @@ Error opening input files: Server returned 403 Forbidden (access denied)
 [Sat Jun 27 14:54:48 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_301-2_id__Id8xH_9y8k
 [Sat Jun 27 14:54:49 UTC 2026] Mode: Archiving M3U8 & TS Segments
 [Sat Jun 27 14:54:49 UTC 2026] Mission Completed.
+[Sat Jun 27 15:00:51 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_91-0_id__Id8xH_9y8k
+[Sat Jun 27 15:00:51 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:52 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_91-1_id__Id8xH_9y8k
+[Sat Jun 27 15:00:52 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:53 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_91-2_id__Id8xH_9y8k
+[Sat Jun 27 15:00:53 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:53 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_92-0_id__Id8xH_9y8k
+[Sat Jun 27 15:00:53 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:54 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_92-1_id__Id8xH_9y8k
+[Sat Jun 27 15:00:54 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:55 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_92-2_id__Id8xH_9y8k
+[Sat Jun 27 15:00:55 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:55 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_93-0_id__Id8xH_9y8k
+[Sat Jun 27 15:00:55 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:56 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_93-1_id__Id8xH_9y8k
+[Sat Jun 27 15:00:56 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:57 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_93-2_id__Id8xH_9y8k
+[Sat Jun 27 15:00:57 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:57 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_94-0_id__Id8xH_9y8k
+[Sat Jun 27 15:00:57 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:58 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_94-1_id__Id8xH_9y8k
+[Sat Jun 27 15:00:58 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:58 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_94-2_id__Id8xH_9y8k
+[Sat Jun 27 15:00:59 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:00:59 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_300-0_id__Id8xH_9y8k
+[Sat Jun 27 15:00:59 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:01:00 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_300-1_id__Id8xH_9y8k
+[Sat Jun 27 15:01:00 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:01:00 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_300-2_id__Id8xH_9y8k
+[Sat Jun 27 15:01:00 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:01:01 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_301-0_id__Id8xH_9y8k
+[Sat Jun 27 15:01:01 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:01:02 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_301-1_id__Id8xH_9y8k
+[Sat Jun 27 15:01:02 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:01:02 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_301-2_id__Id8xH_9y8k
+[Sat Jun 27 15:01:02 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:01:03 UTC 2026] Mission Completed.

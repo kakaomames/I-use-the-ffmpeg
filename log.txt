@@ -134,3 +134,16 @@ Error opening input files: Server returned 403 Forbidden (access denied)
 [Sat Jun 27 15:04:11 UTC 2026] Mission: Archiving 攻めの反対？答え一つしかないで_itag_301-2_id__Id8xH_9y8k
 [Sat Jun 27 15:04:11 UTC 2026] Mode: Archiving M3U8 & TS Segments
 [Sat Jun 27 15:04:12 UTC 2026] Mission Completed.
+[Sat Jun 27 15:29:45 UTC 2026] Mission: Archiving 【元ネタ+比較】暫定版・チルノ_itag_91_id_8vPNL5Wlohs
+[Sat Jun 27 15:29:45 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:29:45 UTC 2026] Mission: Archiving 【元ネタ+比較】暫定版・チルノ_itag_92_id_8vPNL5Wlohs
+[Sat Jun 27 15:29:45 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:29:46 UTC 2026] Mission: Archiving 【元ネタ+比較】暫定版・チルノ_itag_93_id_8vPNL5Wlohs
+[Sat Jun 27 15:29:46 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:29:47 UTC 2026] Mission: Archiving 【元ネタ+比較】暫定版・チルノ_itag_94_id_8vPNL5Wlohs
+[Sat Jun 27 15:29:47 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:29:47 UTC 2026] Mission: Archiving 【元ネタ+比較】暫定版・チルノ_itag_300_id_8vPNL5Wlohs
+[Sat Jun 27 15:29:47 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:29:48 UTC 2026] Mission: Archiving 【元ネタ+比較】暫定版・チルノ_itag_301_id_8vPNL5Wlohs
+[Sat Jun 27 15:29:48 UTC 2026] Mode: Archiving M3U8 & TS Segments
+[Sat Jun 27 15:29:49 UTC 2026] Mission Completed.

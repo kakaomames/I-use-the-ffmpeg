@@ -28,7 +28,7 @@ while [ "$(jq '.urls | length' url.json)" -gt 0 ]; do
         echo "[$(date)] Mode: Archiving M3U8 & TS Segments" >> log.txt
         
         # マニフェスト取得
-        curl -sL "$stream_url" > "$out_dir/index.m3u8"
+        curl -sL "$stream_url" > "$out_dir/index.mp4"
         
         # TSファイルのダウンロード (マニフェストからhttpで始まる行を抽出して取得)
         # ※.ts で終わる行を対象にする
